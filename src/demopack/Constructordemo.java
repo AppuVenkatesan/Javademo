@@ -21,8 +21,12 @@ public class Constructordemo {
 		
 		demo obj = new demo();
 		System.out.println(obj.num);
+		
+		System.out.println("This is masterr branch in 1nd user");
       	
 		
 	}
+	
+	
 
 }
